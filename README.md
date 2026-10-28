@@ -16,7 +16,7 @@ Dự án xây dựng một trợ lý AI chạy trên trình duyệt, hỗ trợ 
 
 Website chưa có đường dẫn công khai được xác nhận.
 
-Đường dẫn `file:///D:/index.html.html` chỉ hoạt động trên máy tính cá nhân, không thể dùng làm link demo công khai.
+Đường dẫn `[SWAP](https://thanhdanh-a.github.io/D-n-b-m-t-quoc-gia-Ss1/)` chỉ hoạt động trên máy tính cá nhân, không thể dùng làm link demo công khai.
 
 ### Cách triển khai website
 
